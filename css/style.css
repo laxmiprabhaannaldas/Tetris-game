@@ -5,7 +5,6 @@ div {
 }
 
 .grid {
-    background-color: blue;
     height: 400px;
     width: 200px;
     display: flex;
@@ -18,4 +17,8 @@ div {
 
 .block2 {
     background-color: purple;
+}
+
+.block3 {
+    background-color: green;
 }
